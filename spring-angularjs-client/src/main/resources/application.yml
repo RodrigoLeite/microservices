@@ -1,0 +1,12 @@
+security:
+  user:
+    password: 1234
+zuul:
+  routes:
+    resource:
+      path: /resource/**
+      url: http://localhost:9000/resource
+spring:
+  redis:
+    host: localhost
+    port: 6379
