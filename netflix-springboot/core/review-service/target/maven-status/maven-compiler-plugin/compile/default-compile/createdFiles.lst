@@ -1,0 +1,4 @@
+br/org/venturus/fti/web/microservices/core/service/ReviewService.class
+br/org/venturus/fti/web/microservices/core/service/util/SetProcTimeBean.class
+br/org/venturus/fti/web/microservices/core/model/Review.class
+br/org/venturus/fti/web/microservices/core/ReviewServiceApplication.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.org.venturus.fti.web.microservices.core.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.775 sec - in br.org.venturus.fti.web.microservices.core.ProductServiceApplicationTests
