@@ -1,0 +1,8 @@
+/bin
+/target
+.project
+.classpath
+/.settings
+review-service.iml
+.DS_Store
+
