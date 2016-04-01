@@ -1,0 +1,8 @@
+/bin
+/target
+.project
+.classpath
+/.settings
+discovery-server.iml
+.DS_Store
+
