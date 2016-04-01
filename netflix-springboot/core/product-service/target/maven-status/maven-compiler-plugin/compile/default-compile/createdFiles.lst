@@ -1,0 +1,3 @@
+br/org/venturus/fti/web/microservices/core/ProductServiceApplication.class
+br/org/venturus/fti/web/microservices/core/model/Product.class
+br/org/venturus/fti/web/microservices/core/service/ProductService.class
